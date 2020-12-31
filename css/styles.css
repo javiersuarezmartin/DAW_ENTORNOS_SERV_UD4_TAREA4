@@ -1,0 +1,27 @@
+body {
+    background-color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 50%;
+    margin: 10% auto;
+    background-color: #FFF;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px 0px;
+}
+
+.tabla-equipos {
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid rgb(0, 160, 255);
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.cabecera-tabla {
+    color: #FFF;
+    background-color: rgb(0, 160, 255);
+    border: 1px solid rgb(0, 160, 255);
+}
